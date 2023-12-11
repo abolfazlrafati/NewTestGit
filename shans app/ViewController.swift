@@ -103,7 +103,7 @@ class ViewController: UIViewController {
                             self.wheelBtn.setBtnTitle(title: "شانستو امتحان کن")
                         } else{
                             self.wheelBtn.isEnabled = false
-                            self.luckLbl.text = ""
+                            self.luckLbl.text = "abolfazl"
                         }
                         
                     }
